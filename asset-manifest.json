@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jatin-Barman/blog-app.git/static/css/main.ff02f4b5.css",
+    "main.js": "/Jatin-Barman/blog-app.git/static/js/main.9d988022.js",
+    "static/js/453.ed3810f9.chunk.js": "/Jatin-Barman/blog-app.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Jatin-Barman/blog-app.git/index.html",
+    "main.ff02f4b5.css.map": "/Jatin-Barman/blog-app.git/static/css/main.ff02f4b5.css.map",
+    "main.9d988022.js.map": "/Jatin-Barman/blog-app.git/static/js/main.9d988022.js.map",
+    "453.ed3810f9.chunk.js.map": "/Jatin-Barman/blog-app.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.9d988022.js"
+  ]
+}
